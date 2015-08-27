@@ -30,6 +30,10 @@ body{
   list-style-type: none;
   margin: 0;
 }
+#topbar a{
+  color: white;
+  text-decoration: none;
+}
 #topbar li{
   float: left;
   padding-left: 15px;
