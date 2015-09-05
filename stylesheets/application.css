@@ -43,6 +43,9 @@ body{
 #section3{
   height: 680px;
 }
+#sec3-img{
+  padding-top: 60px;
+}
 #sec1-content{
   width: 1000px;
   margin: 0 auto;
