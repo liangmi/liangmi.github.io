@@ -4,6 +4,16 @@ h1, h2, h3{
 body{
   font-family: 'helvetica neue', helvetica, 'Microsoft Yahei', 微软雅黑, 'Hiragino Sans GB', 冬青黑体, 'WenQuanYi Micro Hei', 文泉驿微米黑, sans-serif;
 }
+#header #topbar{
+  position: absolute;
+  top: 2%;
+  right: 3%;
+  color: rgb(210, 210, 210)!important;
+}
+#header #topbar a{
+  color: rgb(210, 210, 210)!important;
+  text-decoration: none;
+}
 #header-content{
   margin: 0 auto;
   top: 67%;
